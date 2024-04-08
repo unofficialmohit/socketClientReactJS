@@ -1,4 +1,4 @@
-# Socket Client 
+# Socket Client (Socket.io)
 
 use this as server : 
 
